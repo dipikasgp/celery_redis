@@ -9,7 +9,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Detailed Description](#detailed_description)
-- [Future Scope](#future_scope)
   
 ## Installation
 
