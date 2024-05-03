@@ -57,3 +57,4 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Detailed Description
+In this project we create a celery app which we use as a decorator for any function (Eg: time_consuming_function in celery_task_handler.py file).
